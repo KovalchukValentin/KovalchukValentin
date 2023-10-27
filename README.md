@@ -33,7 +33,7 @@ Hello there! I'm a passionate Python developer with a love for writing clean, ef
 
 ## Let's Connect!
   <ul>
-    <li>📫 Feel free to reach out to me at <a href="mailto:kovalchuk.valentine@gmail.com">kovalchuk.valentine@gmail.com/a>.</li>
+    <li>📫 Feel free to reach out to me at <a href="mailto:kovalchuk.valentine@gmail.com">kovalchuk.valentine@gmail.com</a>.</li>
     <li>📷 Connect with me on <a href="https://www.instagram.com/valent_nk/">Instagram</a> for the latest updates and tech discussions.</li>
     <li>💼 Explore my <a href="https://www.linkedin.com/in/valentin-kovalchuk-743597290/">LinkedIn profile</a> to learn more about my professional journey.</li>
   </ul>
